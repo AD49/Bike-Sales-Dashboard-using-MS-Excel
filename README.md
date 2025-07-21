@@ -1,4 +1,4 @@
-This is my first project usning Excel for making Bike Sales Dashboard.
+Excel Project - Bike Sales Dashboard.
 Steps for making this Dashboard:
 
 1) Data cleaning
